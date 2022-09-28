@@ -1,2 +1,2 @@
-#!/bin/bashi
-echo Hello $USER
+#!/bin/bash
+echo Hello $USERNAME
